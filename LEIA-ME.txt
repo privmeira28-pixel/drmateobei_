@@ -1,0 +1,24 @@
+SITE CLÍNICA DR. MATEO BEI · NOVA VERSÃO
+=========================================
+
+Arquivos: index.html, css/style.css, js/script.js
+
+ANTES DE PUBLICAR
+1. IMAGENS: as fotos e os logos dos convênios estão sendo puxados direto do site atual
+   (https://drmateobei.com.br/images/...). Se o site novo ficar no mesmo domínio, funciona como está.
+   Se for para outro servidor, baixe as imagens para uma pasta img/ e troque os endereços no index.html.
+
+2. FOTO DOS DENTISTAS: o site atual só tem fotos com texto embutido (banner-espec.png).
+   O novo layout recorta a parte dos dois dentistas, mas o ideal é uma foto limpa, sem texto, vertical.
+
+3. LOGO: o dente dourado vem do logo oficial (images/logo.png), recortado por CSS para não repetir
+   o nome que já vem escrito embaixo dele. O nome ao lado usa a fonte Cormorant Garamond itálica, em dourado.
+   Se mudar o endereço da imagem, troque também a url dentro da regra .mark no css/style.css.
+
+4. DEPOIMENTOS: são os mesmos do site atual. Confirme que são de pacientes reais. O ideal é
+   usar avaliações do Google. Pelas regras do CFO, evite promessas como "sem dor".
+
+5. CRO: a Dra. Samantha aparece no site atual como "CROSP 11.8713". Coloquei 118713. Confirme o número.
+
+6. WHATSAPP: todos os botões usam o (11) 2012-5057 com uma mensagem pronta.
+   Se o atendimento for pelo celular (11) 95024-1549, troque 551120125057 por 5511950241549.
